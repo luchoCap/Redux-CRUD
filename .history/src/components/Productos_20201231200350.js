@@ -17,6 +17,7 @@ const Productos = () => {
                 </tbody>
             </table>
         </Fragment>
+        <h1>Desde Productos.js</h1>
     );
 }
 

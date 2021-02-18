@@ -2,7 +2,7 @@ import React, {Fragment} from 'react';
 
 const Productos = () => {
     return (
-        <Fragment>
+        <div>
             <h2 className="text-center my-5">Listado de Productos</h2>
             <table className="table table-stroped">
                 <thead className="bg-primary table-dark">
@@ -13,10 +13,10 @@ const Productos = () => {
                     </tr>
                 </thead>
                 <tbody>
-                    
+
                 </tbody>
             </table>
-        </Fragment>
+        </div>
     );
 }
 

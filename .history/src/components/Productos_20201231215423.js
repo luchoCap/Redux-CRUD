@@ -13,10 +13,11 @@ const Productos = () => {
                     </tr>
                 </thead>
                 <tbody>
-                    
+
                 </tbody>
             </table>
         </Fragment>
+        
     );
 }
 
